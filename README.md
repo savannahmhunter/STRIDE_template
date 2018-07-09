@@ -1,8 +1,8 @@
 ## STRIDE_project_template
 Setting up a template repository to manage STRIDE projects
 
-The purpose of this project is [].
-My hypothesis is [].
+The purpose of this project is to analyze content from temporary job postings.
+My hypothesis is.
 
 I plan to collect data from [] and [] and []. 
 
